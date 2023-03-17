@@ -25,7 +25,6 @@
  
 <div align=center><h2><br>🌱 My GitHub Stats</h2></div>
 <div align=center>
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=llssww-17&layout=compact">
   <img src="https://github-readme-stats.vercel.app/api?username=llssww-17&show_icons=true">
   <br>
