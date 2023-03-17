@@ -1,8 +1,8 @@
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SeungWoo&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SeungWoo&fontSize=70" />
 </div>
 
-<div align=center><h1>📚 기술스택</h1></div>
+<div align=center><h2>📚 기술스택</h2></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -23,7 +23,7 @@
 </div>
  -->
  
-<div align=center><h1><br>🌱 My GitHub Stats</h1></div>
+<div align=center><h2><br>🌱 My GitHub Stats</h2></div>
 <div align=center>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=llssww-17&layout=compact">
